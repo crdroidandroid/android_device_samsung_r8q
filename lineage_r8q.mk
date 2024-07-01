@@ -30,6 +30,9 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 TARGET_SCREEN_HEIGHT := 2400
 TARGET_SCREEN_WIDTH := 1080
 
+# crDroid Flags
+TARGET_HAS_UDFPS := true
+
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := lineage_r8q
 PRODUCT_DEVICE := r8q
