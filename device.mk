@@ -50,3 +50,5 @@ PRODUCT_COPY_FILES += \
 
 # Inherit r8q blobs
 $(call inherit-product, vendor/samsung/r8q/r8q-vendor.mk)
+
+-include vendor/lineage-priv/keys/keys.mk

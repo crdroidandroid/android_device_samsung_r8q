@@ -36,9 +36,9 @@ TARGET_HAS_UDFPS := true
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := lineage_r8q
 PRODUCT_DEVICE := r8q
-PRODUCT_BRAND := samsung
+PRODUCT_BRAND := google
 PRODUCT_MODEL := SM-G780G
-PRODUCT_MANUFACTURER := samsung
+PRODUCT_MANUFACTURER := google
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 # Vendor fingerprint
