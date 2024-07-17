@@ -30,10 +30,7 @@
     <string name="config_fpsInfoSysNode" translatable="false">/sys/class/drm/sde-crtc-0/measured_fps</string>
 
     <!-- FPS measure interval in milliseconds, default 1000 -->
-    <integer name="config_fpsReadInterval">1000</integer>
-
-    <!-- Whether to disable Smart Pixels on UDFPS -->
-    <bool name="config_disableSmartPixelsOnUDFPS">true</bool>
+    <integer name="config_fpsReadInterval">100</integer>
 
     <!-- Whether show refresh rate QS tile -->
     <bool name="config_showRefreshRateQsTile">true</bool>
