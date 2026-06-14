@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2024 The The Clover Project Project
+# Copyright (C) 2024 The AlphaDroid Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/clover_r8q.mk
+    $(LOCAL_DIR)/alpha_r8q.mk
